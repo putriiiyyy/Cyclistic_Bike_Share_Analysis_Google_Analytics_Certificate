@@ -46,7 +46,7 @@ upgrade to a cyclistic member.
 Wednesdays and Saturdays, as they are the peak days 
 for members and casual users.
 # 📚 Credit
-- This project was developed as part of a Project-Based Internship at Kimia Farma.
-- All datasets used in this project are © Kimia Farma.
-- All SQL queries, analysis, visualizations, key business insights, and recommendations were created by me.
+- This project was developed as part of capstone project for Google Data Analytics Certificate
+- The dataset has a different name because Cyclistic is a fictional company. The data was provided by Motivate International Inc. under the following license.
+- All Excel fromula, analysis, visualizations, key business insights, and recommendations were created by me.
 - This repository is intended solely for learning and portfolio purposes.

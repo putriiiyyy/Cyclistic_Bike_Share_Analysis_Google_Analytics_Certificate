@@ -12,6 +12,7 @@ Design a marketing strategy aimed at converting casual riders into annual member
  1) Singgle ride  
  2) Full day pass  
  3) Annual membership  
+ 
  Financial analysis indicates annual membership are more profitable  
  Future Growth Strategy:  
  1. Maximazing Cyclistic Member for future growth  

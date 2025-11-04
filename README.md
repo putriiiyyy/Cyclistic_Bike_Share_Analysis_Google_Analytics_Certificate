@@ -2,7 +2,7 @@
 This is my capstone Google Data Analytics certificate. An exploratory data analysis of Cyclistic’s bike-share data to identify rider behavior in 2024 using patterns, usage trends, and strategic opportunities for improving customer retention. Conducted data cleaning, analysis, and visualization on Cyclistic’s bike-share data using Excel and Tableau to generate actionable business recommendations.
 
 # 🎯 Project Objectives
-
+Design a marketing strategy aimed at converting casual riders into annual members. However, to achieve this, the marketing analytics team needs to better understand the differences between annual members and casual riders, why riders would be motivated to purchase a membership, and how digital media can influence their marketing tactics. As a data analyst, I interested in analyzing Cyclistic’s bike-share trip data to identify usage trends.
 # 🛠️ Tools Used
 - Excel→ for data cleaning, querying, grouping, and calculating net profit
 - Tableau → for creating interactive dashboards and visualizing insights
@@ -13,11 +13,17 @@ This is my capstone Google Data Analytics certificate. An exploratory data analy
  2) Full day pass  
  3) Annual membership  
  Financial analysis indicates annual membership are more profitable  
-
  Future Growth Strategy:  
  1. Maximazing Cyclistic Member for future growth  
  2. Convert Casual Bikers to Cyclistic Member  
-
+# 🧼 Data cleaning process
+All of the data cleaning process were performed in Excel
+1. Importing Data
+2. Check Irrelevany Data
+3. Transform Data
+4. Verifying Data
+# 🖥️ Presentation
+For full presentation check here
 # 🪄 Recommendation  
 Marketing Team  
 1. Develop strategies to convert casual riders to cyclistic 

@@ -24,7 +24,7 @@ All of the data cleaning process were performed in Excel
 3. Transform Data
 4. Verifying Data
 # 🖥️ Presentation
-For full presentation check [Presentation](Presentation/Capstone Project Google Data Analytics_Putri.pdf)
+For full presentation check [Presentation](Presentation/Google_Data_Analytics.pdf)
 # 🪄 Recommendation  
 Marketing Team  
 1. Develop strategies to convert casual riders to cyclistic 
